@@ -42,6 +42,7 @@ const UploadNew = () => {
     }
     
   }
+  
 
   const getImageLibrary = async () => {
     const result = await launchImageLibrary();
